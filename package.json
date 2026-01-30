@@ -2,7 +2,7 @@
   "name": "high-ticket-simulator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://cbyrne290-hub.github.io/Closers-Combat-Sim",
   "dependencies": {
     "framer-motion": "^12.29.2",
     "lucide-react": "^0.563.0",
