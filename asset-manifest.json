@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/Closers-Combat-Sim/static/css/main.65714f10.css",
-    "main.js": "/Closers-Combat-Sim/static/js/main.39441ee4.js",
+    "main.js": "/Closers-Combat-Sim/static/js/main.63cff503.js",
     "index.html": "/Closers-Combat-Sim/index.html",
-    "main.65714f10.css.map": "/Closers-Combat-Sim/static/css/main.65714f10.css.map",
-    "main.39441ee4.js.map": "/Closers-Combat-Sim/static/js/main.39441ee4.js.map"
+    "main.63cff503.js.map": "/Closers-Combat-Sim/static/js/main.63cff503.js.map"
   },
   "entrypoints": [
-    "static/css/main.65714f10.css",
-    "static/js/main.39441ee4.js"
+    "static/js/main.63cff503.js"
   ]
 }
